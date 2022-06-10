@@ -25,7 +25,7 @@ function App({ products, getProducts, getCatalog, catalog }) {
         <div>
           <Header />
           <Routes>
-            <Route exact path="/" element={<MainPage />}></Route>
+            <Route exact path="/tires-site" element={<MainPage />}></Route>
             <Route path="/catalog" element={<CatalogPage />}></Route>
             <Route path="/catalog/:category_name" element={<CategoryPage />}></Route>
             <Route path="/catalog/:category_name/:producer" element={<Products />}></Route>
