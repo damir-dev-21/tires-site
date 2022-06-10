@@ -1,0 +1,14 @@
+export const SET_CART = 'SET_CART';
+export const GET_CART = 'GET_CART';
+export const SET_INITIAL_PRODUCTS = 'SET_INITIAL_PRODUCTS';
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const SEARCH_PRODUCT = 'SEARCH_PRODUCT'; 
+export const SET_CATALOG = 'SET_CATALOG'; 
+export const SET_CATEGORIES = 'SET_CATEGORIES'; 
+export const SET_PRODUCERS = 'SET_PRODUCERS'; 
+export const SET_PRODUCTS = 'SET_PRODUCTS'; 
+export const SET_POPULAR = 'SET_POPULAR'; 
+export const AUTH_START = 'AUTH_START';
+export const AUTH_OVER = 'AUTH_OVER';
+export const DELETE_ITEM = 'DELETE_ITEM';
