@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tires-site/static/css/main.d02d6191.css",
-    "main.js": "/tires-site/static/js/main.4f1614ab.js",
+    "main.js": "/tires-site/static/js/main.8c2d3234.js",
     "static/js/787.48428984.chunk.js": "/tires-site/static/js/787.48428984.chunk.js",
     "static/media/tire_car_small.jpeg": "/tires-site/static/media/tire_car_small.59e567f7f92bee0c1311.jpeg",
     "static/media/wheel_small.jpeg": "/tires-site/static/media/wheel_small.c800a0123162cfd6297f.jpeg",
@@ -10,11 +10,11 @@
     "static/media/right-arrow.svg": "/tires-site/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
     "index.html": "/tires-site/index.html",
     "main.d02d6191.css.map": "/tires-site/static/css/main.d02d6191.css.map",
-    "main.4f1614ab.js.map": "/tires-site/static/js/main.4f1614ab.js.map",
+    "main.8c2d3234.js.map": "/tires-site/static/js/main.8c2d3234.js.map",
     "787.48428984.chunk.js.map": "/tires-site/static/js/787.48428984.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d02d6191.css",
-    "static/js/main.4f1614ab.js"
+    "static/js/main.8c2d3234.js"
   ]
 }
