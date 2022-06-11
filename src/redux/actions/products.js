@@ -4,7 +4,7 @@ import { SET_PRODUCTS, SET_CATALOG, SET_INITIAL_PRODUCTS, SET_PRODUCERS, GET_PRO
 
 export function getProducts() {
     return async (dispatch) => {
-        const responce = await axios.get("http://94.103.83.34:8002/api/items/")
+        const responce = await axios.get("https://94.103.83.34:8002/api/items/")
         let popular = []
         const data = responce.data
         let arr = []
